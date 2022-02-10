@@ -1,3 +1,4 @@
+conda create --prefix C:\MyCondaEnv\obj python=3.6
 import sqlite3
 
 # Create a data base in the folder
